@@ -11,14 +11,14 @@ const Blog = () => {
     },
     {
       id: 2,
-      title: 'Exploring Sustainable Methods for Dyeing Handmade Rugs at Shahkar Rugs: A Standard Approach for...',
+      title: 'Exploring Sustainable Methods for Dyeing Handmade Rugs at Shahab Rugs: A Standard Approach for...',
       date: 'Nov 2024',
       image: 'https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?w=600',
-      excerpt: 'In the tapestry world of fine carpets, Shahkar rugs has always been known for it\'s commitment to quality, tradition...'
+      excerpt: 'In the tapestry world of fine carpets, Shahab rugs has always been known for it\'s commitment to quality, tradition...'
     },
     {
       id: 3,
-      title: 'Explore the Elegance and Sustainability of Handmade wool rugs with Shahkar Rugs.',
+      title: 'Explore the Elegance and Sustainability of Handmade wool rugs with Shahab Rugs.',
       date: 'Oct 2024',
       image: 'https://images.unsplash.com/photo-1600166898405-da9535204843?w=600',
       excerpt: 'Pure Handmade on looms'

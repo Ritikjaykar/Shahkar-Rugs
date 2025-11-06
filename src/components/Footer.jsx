@@ -70,7 +70,7 @@ const Footer = () => {
             </a>
           </div>
           <div className="space-y-1 text-gray-700">
-            <p><a href="mailto:info@shahkarrugs.com" className="hover:text-primary transition">info@shahkarrugs.com</a> , <a href="mailto:order@shahkarrugs.com" className="hover:text-primary transition">order@shahkarrugs.com</a></p>
+            <p><a href="mailto:info@shahabrugs.com" className="hover:text-primary transition">info@shahabrugs.com</a> , <a href="mailto:order@shahabrugs.com" className="hover:text-primary transition">order@shahabrugs.com</a></p>
             <p><a href="tel:+918960430890" className="hover:text-primary transition">+91 8960 430 890</a></p>
             <p className="text-sm">Bazar Sardar Khan,Chowri Road, Bhadohi,Uttar Pradesh 221401, India</p>
           </div>
@@ -83,7 +83,7 @@ const Footer = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {/* About */}
             <div>
-              <h3 className="text-xl font-bold mb-4 text-secondary">Shahkar Rugs</h3>
+              <h3 className="text-xl font-bold mb-4 text-secondary">shahab Rugs</h3>
               <p className="text-gray-400 text-sm mb-4">
                 Manufacturer and exporter of handmade rugs. Making homes beautiful since 2003.
               </p>
@@ -127,7 +127,7 @@ const Footer = () => {
                 </li>
                 <li className="flex items-center">
                   <Mail className="w-5 h-5 text-secondary mr-2 flex-shrink-0" />
-                  <span className="text-gray-400 text-sm">info@shahkarrugs.com</span>
+                  <span className="text-gray-400 text-sm">info@shahabrugs.com</span>
                 </li>
               </ul>
             </div>
@@ -135,10 +135,10 @@ const Footer = () => {
 
           <div className="border-t border-gray-800 mt-8 pt-8 text-center">
             <p className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} Shahkar Rugs. All rights reserved. | Handcrafted with care in India
+              © {new Date().getFullYear()} shahab Rugs. All rights reserved. | Handcrafted with care in India
             </p>
             <p className="text-gray-500 text-xs mt-2">
-              All of the material on this website is Copyright © by Shahkar Rugs. Do not use, publish or reproduce without written permission by the author.
+              All of the material on this website is Copyright © by shahab Rugs. Do not use, publish or reproduce without written permission by the author.
             </p>
           </div>
         </div>

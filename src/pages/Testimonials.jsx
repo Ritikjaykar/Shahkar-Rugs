@@ -4,7 +4,7 @@ const Testimonials = () => {
   const testimonials = [
     {
       name: 'Art Creation',
-      text: 'Shahkar rugs is one of best, leading manufacturing company ever they are providing good quality of product with reasonable price as well they have a lot of variety in hand made carpet.',
+      text: 'Shahab rugs is one of best, leading manufacturing company ever they are providing good quality of product with reasonable price as well they have a lot of variety in hand made carpet.',
       color: 'from-slate-900 to-slate-700'
     },
     {
@@ -29,7 +29,7 @@ const Testimonials = () => {
     },
     {
       name: 'Roaif Iftakhab',
-      text: 'All type of handmade carpets of best quality, with "nice and friendly staff" Shahkar Rugs will provide you the best quality products of your choice.',
+      text: 'All type of handmade carpets of best quality, with "nice and friendly staff" Shahab Rugs will provide you the best quality products of your choice.',
       color: 'from-slate-900 to-slate-700'
     }
   ];

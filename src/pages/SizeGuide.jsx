@@ -38,7 +38,7 @@ const SizeGuide = () => {
           </div>
         </div>
         <h1 className="text-2xl font-bold text-gray-800" style={{fontFamily: 'serif'}}>
-          Shahkar Rugs
+          Shahab Rugs
         </h1>
         <h2 className="text-3xl font-light text-gray-600 mt-4 tracking-wide">
           AREA RUG SIZE GUIDE

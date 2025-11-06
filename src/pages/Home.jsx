@@ -87,7 +87,7 @@ const Home = () => {
               Making Homes Beautiful
             </h1>
             <p className="text-lg md:text-xl mb-8 text-gray-200">
-              SHAHKAR RUGS is one-stop destination of the fascinating Home Decor Carpets. 
+              SHAHAB RUGS is one-stop destination of the fascinating Home Decor Carpets. 
               We are a reputed manufacturer, exporter, and supplier of Handmade Carpets.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
@@ -139,7 +139,7 @@ const Home = () => {
 
           <div className="mb-16 max-w-4xl mx-auto text-center space-y-4 text-gray-700">
             <p>
-              At Shahkar Rugs, we meticulously craft handmade rugs using age-old techniques and the finest natural materials.
+              At Shahab Rugs, we meticulously craft handmade rugs using age-old techniques and the finest natural materials.
               Our skilled artisans hand-select premium wool and silk, then dye them with eco-friendly colors.
             </p>
             <p>
@@ -150,7 +150,7 @@ const Home = () => {
               We prioritize sustainability, employing ethical practices and minimal environmental impact.
             </p>
             <p>
-              At Shahkar Rugs, every rug is a masterpiece, blending artistry and craftsmanship to enhance your space with elegance and
+              At Shahab Rugs, every rug is a masterpiece, blending artistry and craftsmanship to enhance your space with elegance and
               durability.
             </p>
             <p className="font-semibold text-gray-900">
@@ -233,7 +233,7 @@ const Home = () => {
             </h2>
             <p className="text-center text-sm text-gray-600 mb-8">HOW WE GOT HERE</p>
             <p className="text-gray-700 leading-relaxed text-center">
-              A leader in the rug retail and manufacturing industry since 2003, SHAHKAR RUGS is
+              A leader in the rug retail and manufacturing industry since 2003, SHAHAB RUGS is
               dedicated to bringing you high-quality rugs, furniture, and home decor from the most talented
               artisan in Rural India at rock-bottom prices. With our low-price commitment and dedication to
               customer service, we aim to make your next rug purchase a pleasant and enjoyable

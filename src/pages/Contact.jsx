@@ -112,8 +112,8 @@ const Contact = () => {
                   <div className="ml-4">
                     <h3 className="font-semibold text-gray-900">Email</h3>
                     <p className="text-gray-600 mt-1">
-                      info@shahkarrugs.com<br />
-                      order@shahkarrugs.com
+                      info@shahabrugs.com<br />
+                      order@shahabrugs.com
                     </p>
                   </div>
                 </div>
@@ -166,7 +166,7 @@ const Contact = () => {
               allowFullScreen=""
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Shahkar Rugs Location"
+              title="Shahab Rugs Location"
             />
           </div>
         </div>

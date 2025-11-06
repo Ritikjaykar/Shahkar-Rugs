@@ -102,7 +102,7 @@ const HowWeWork = () => {
         <div className="max-w-4xl mx-auto px-4">
           <div className="prose prose-lg max-w-none">
             <p className="text-gray-700 leading-relaxed mb-6">
-              Shahkar Rugs is deeply inherent in our traditional weaving skills, modernizing our industry by continuously 
+              Shahab Rugs is deeply inherent in our traditional weaving skills, modernizing our industry by continuously 
               innovating every vertical of the brand by going the extra mile for clients and building fair trust with all 
               of the stakeholders, partnered by nature.
             </p>

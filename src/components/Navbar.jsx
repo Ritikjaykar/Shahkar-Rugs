@@ -38,7 +38,7 @@ const Navbar = () => {
   <div className="p-[3px] rounded-xl bg-gradient-to-r">
     <img
       src={logo}
-      alt="Shahkar Rugs Logo"
+      alt="shahab Rugs Logo"
       className="h-12 w-12 rounded-lg object-cover bg-white "
     />
   </div>
@@ -47,7 +47,7 @@ const Navbar = () => {
       className="text-2xl font-extrabold text-[#6B3A00]"
       style={{ fontFamily: 'Playfair Display, serif' }}
     >
-      Shahkar Rugs
+      Shahab Rugs
     </h1>
     <p className="text-sm text-gray-500 hidden sm:block">
       Manufacturer and Exporter

@@ -7,7 +7,7 @@ const About = () => {
       {/* Header */}
       <div className="bg-primary text-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">About Shahkar Rugs</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">About Shahab Rugs</h1>
           <p className="text-lg text-gray-200">Crafting Excellence Since 2003</p>
         </div>
       </div>
@@ -20,7 +20,7 @@ const About = () => {
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
               <div className="space-y-4 text-gray-700">
                 <p>
-                  Founded in 2003, Shahkar Rugs has grown from a small artisan workshop in rural India 
+                  Founded in 2003, Shahab Rugs has grown from a small artisan workshop in rural India 
                   to become a respected leader in the handmade rug industry. Our journey began with a 
                   simple mission: to preserve traditional rug-making techniques while creating beautiful, 
                   high-quality pieces accessible to homes worldwide.
